@@ -1,0 +1,59 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: #000000;
+    box-sizing: border-box;
+    font-family: arial;
+}
+body{
+    background-color: #009688;
+}
+.box{
+    width: 400px;
+    height: auto;
+    margin: 0px auto;
+    background-color: #fff;
+}
+.heading h1{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 80px;
+    color: #fff;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+.inner-box{
+    padding: 20px;
+}
+.box h2,h3{
+    text-align: center;
+    margin: 5px 0px;
+}
+#username, #password,#name, #email{
+    width: 100%;
+    padding: 10px 0px;
+    margin: 10px 0px;
+    border: 2px solid #c0c0c0;
+    font-weight: 100px;
+}
+#submit{
+    background-color: #3B5998;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    width: 100%;
+    padding: 10px 0px;
+    margin: 10px 0px;
+    border: 2px solid #000000;
+    cursor: pointer;
+}
+p{
+    margin: 5px 0px;
+}
+.link{
+    color: #00aced;
+}
+.forgot{
+    float: right;
+    font-weight:bold;
+}
