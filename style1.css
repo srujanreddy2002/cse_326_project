@@ -275,6 +275,12 @@ nav ul li a{
     .service-img img{
         width: 100%;
     }
+    .payment-box{
+        flex-basis: 100%;
+    }
+    .payment-description .f1{
+        flex-basis: 100%;
+    }
 }
 
 
