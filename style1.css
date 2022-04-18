@@ -266,15 +266,6 @@ nav ul li a{
     .title-text h1{
         font-size: 35px;
     }
-    .services{
-        flex-basis: 100%;
-    }
-    .service-img{
-        flex-basis: 100%;
-    }
-    .service-img img{
-        width: 100%;
-    }
     .payment-box{
         flex-basis: 100%;
     }
